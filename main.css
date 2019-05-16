@@ -1,0 +1,31 @@
+h2{
+    color: rgba(86, 86, 242, 0.815);
+    font-family: fantasy;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    color: rgba(233, 126, 12, 0.619);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px;
+
+}
+h3{
+    color: rgba(245, 244, 243, 0.74);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    
+}
+h1 {
+    color: rgb(255, 253, 251);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 70px;
+}
+body{
+    background-image: url("blacknew.jpg");
+    background-size: cover;
+
+}
