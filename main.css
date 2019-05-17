@@ -33,3 +33,15 @@ button{
     font-size: 45px;
     
 }
+.screenshot{
+    width:75%;
+    height:75%;
+    margin-left: 10% ;
+    margin-top: 0% ;
+}
+.phonepic{
+    width:30%;
+    height:30%;
+    margin-left: 35% ;
+    margin-top: 0% ;
+}
